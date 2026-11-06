@@ -2,13 +2,19 @@
 
 Por isso, siga um prompt 😂
 Todos os domingos de manhã chega-nos um email com:
+
 👉 14 refeições (6 de carne, 6 de peixe e 2 vegetarianas) com doses para a nossa família de 5
+
 👉 1 prato mais exótico, para sair da rotina
+
 👉 sugestões ligadas à época do ano (em outubro: caldeiradas, sopas, castanhas… e uma boa Francesinha 🍂)
+
 👉 em cada receita: origem, tempo de preparação, dificuldade, fotografia, utensílios necessários, passo a passo e quantidades
+
 O melhor vem no fim. O email termina com uma linha assim:
 "pão de forma mais bife de vaca mais linguiça mais fiambre mais queijo flamengo…"
-Colo-a na app Continente Siga, a app separa os produtos sozinha, toco em "Encomendar online" e o carrinho fica feito. ✅
+
+Colo-a na app [Continente Siga](https://www.continente.pt/siga/), a app separa os produtos sozinha, toco em "Encomendar online" e o carrinho fica feito. ✅
 
 # Every day we had the same conversation at home: "What are we eating?" 🍽️ (EN)
 
@@ -17,15 +23,16 @@ So I handed it to AI as a weekly routine.
 
 Every Sunday morning an email lands in my inbox, with:
 
-→ 14 meals (6 meat, 6 fish, 2 veggie) sized for our family of 5
-→ 1 more exotic dish to break the routine
-→ suggestions that follow the season and the time of year (October means caldeirada, chestnuts, soups 🍂)
-→ for each recipe: country of origin, time (ideally under 30 min), difficulty, a photo, the equipment needed, step-by-step instructions and doses
+👉 14 meals (6 meat, 6 fish, 2 veggie) sized for our family of 5
 
+👉 1 more exotic dish to break the routine
+
+👉 suggestions that follow the season and the time of year (October means caldeirada, chestnuts, soups 🍂)
+
+👉 for each recipe: country of origin, time (ideally under 30 min), difficulty, a photo, the equipment needed, step-by-step instructions and doses
 
 
 The best part is the shopping. At the end of the email comes a single line like:
-
 "pescada mais batata mais cebola mais tomate mais coentros…"
 
 I paste it into the [Continente Siga app](https://www.continente.pt/siga/), it splits the items on its own, I tap "Encomendar online", and the cart is done. ✅
