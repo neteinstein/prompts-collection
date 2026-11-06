@@ -1,6 +1,7 @@
 # 🧠 Prompts Collection
 
 > A personal collection of real-world AI prompts and routines that automate everyday life.
+
 > Uma coleção pessoal de prompts e rotinas de IA que automatizam o dia a dia.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
