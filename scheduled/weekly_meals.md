@@ -1,6 +1,18 @@
-# Every day we had the same conversation at home: "What are we eating?" 🍽️
+# Cá em casa havia uma pergunta que se repetia: "O que é que vamos comer hoje?" 🍽️ (PT)
 
-So I handed it to Claude as a weekly routine.
+Por isso, siga um prompt 😂
+Todos os domingos de manhã chega-nos um email com:
+👉 14 refeições (6 de carne, 6 de peixe e 2 vegetarianas) com doses para a nossa família de 5
+👉 1 prato mais exótico, para sair da rotina
+👉 sugestões ligadas à época do ano (em outubro: caldeiradas, sopas, castanhas… e uma boa Francesinha 🍂)
+👉 em cada receita: origem, tempo de preparação, dificuldade, fotografia, utensílios necessários, passo a passo e quantidades
+O melhor vem no fim. O email termina com uma linha assim:
+"pão de forma mais bife de vaca mais linguiça mais fiambre mais queijo flamengo…"
+Colo-a na app Continente Siga, a app separa os produtos sozinha, toco em "Encomendar online" e o carrinho fica feito. ✅
+
+# Every day we had the same conversation at home: "What are we eating?" 🍽️ (EN)
+
+So I handed it to AI as a weekly routine.
 
 
 Every Sunday morning an email lands in my inbox, with:
