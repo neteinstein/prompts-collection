@@ -1,11 +1,38 @@
-# “What are we running out of?”
+# “O que é que falta lá em casa?” (PT)
+
+Fazemos as compras online no Continente quase todas as semanas, e quase todas as semanas a Maria Cortês Ferreira que acaba por fazer isto muito mais vezes que eu 🙈 pergunta a cada um de nós o que falta. 
+Nem sempre tenho resposta.
+
+Por isso criei uma rotina com o Claude que corre sozinha todas as sextas às 18h:
+
+1️⃣ Lê as faturas Continente dos últimos 6 meses, diretamente do Gmail
+
+2️⃣ Descobre o ritmo da família: o que compramos em todas as encomendas, o que compramos de 2 em 2 semanas, o que já devia ter voltado ao carrinho
+
+3️⃣ Repara no que não foi entregue da última vez e nos produtos que já não estão na época
+
+4️⃣ Envia um email com a lista organizada por categorias, quantidades e custo estimado
+
+No fim vem uma linha pronta a colar na app Continente Siga (“banana mais sumo de laranja mais azeitonas…”). Toco em “Encomendar online” e está feito.
+Na primeira execução analisou 17 encomendas e 876 produtos. O vencedor foi o sumo de laranja, em 16 das 17 encomendas 🍊
+
+Junta-se à [rotina de domingo](weekly_meals.md) que já me sugere as refeições da semana. Uma diz o que cozinhar, a outra diz o que está a acabar.
+O prompt completo está nos comentários. 
+
+Copiem, agendem e adaptem ao vosso supermercado.
+
+# “What are we running out of?” (EN)
 
 We do our grocery shopping online almost every week, and almost every week I forgot something.
 
 So I set up a Claude routine that runs on its own every Friday at 6pm:
+
 1️⃣ Reads 6 months of supermarket invoices straight from Gmail
+
 2️⃣ Learns the family’s rhythm: what we buy every order, what we buy every two weeks, what’s overdue
+
 3️⃣ Notices what wasn’t delivered last time and what’s out of season
+
 4️⃣ Emails a list grouped by category, with quantities and an estimated total
 
 At the end there’s one line ready to paste into the supermarket app. One tap on “Order online” and the cart is ready.
